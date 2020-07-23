@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -11,7 +11,7 @@ namespace webestados.Controllers.Estados
     {
         public IActionResult Index()
         {
-            var steste="";
+            var steste="1";
             return View();
         }
 
