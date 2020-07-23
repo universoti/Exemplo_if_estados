@@ -11,6 +11,7 @@ namespace webestados.Controllers.Estados
     {
         public IActionResult Index()
         {
+            var steste="";
             return View();
         }
 
